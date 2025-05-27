@@ -1,6 +1,3 @@
-Sure, Søren! Here's a draft for your README text:
-
----
 
 # README
 
