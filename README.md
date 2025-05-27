@@ -21,7 +21,3 @@ As an Automations Engineer, I focus on:
 ## Contact
 
 If you have any questions or need further information, feel free to reach out to me.
-
----
-
-Feel free to let me know if there's anything specific you'd like to add or modify!
